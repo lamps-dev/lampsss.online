@@ -1,27 +1,3 @@
 {
   "cleanUrls": true
 }
-{
-  "redirects": [
-    {
-      "source": "/domainone",
-      "destination": "https://ilovelampadaire.com",
-    }
-    {
-      "source": "/domaintwo",
-      "destination": "https://lampsprojects.net",
-    }
-    {
-      "source": "/domainthree",
-      "destination": "https://lamps.lol",
-    }
-    {
-      "source": "/domainfour",
-      "destination": "https://lampsss.online",
-    }
-    {
-      "source": "/domainfive",
-      "destination": "https://lamps-dev.is-a.dev",
-    }
-  ]
-}
